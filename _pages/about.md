@@ -1,3 +1,9 @@
+---
+title: About
+layout: single
+permalink: /
+author_profile: true
+---
 I completed my BSc at De Montfort University in 2021 with first class in Computing. Then I moved to The University of Leicester for my MSc in Cloud Computing, which I completed in 2022. My MSc project was the backbone of my PhD application and was awarded the Best Technical MSc project award. I was also given the Best Student in Informatics award in November 2022.
 
 In my research, I am actively trying to find a way to apply Graph Rewriting to Graph Neural Networks. I am funded by The University, working as a GTA, under the supervision of Prof. Reiko Heckel.
