@@ -1,5 +1,5 @@
 ---
-title: About
+title: Hello 🤗
 layout: single
 permalink: /
 author_profile: true
